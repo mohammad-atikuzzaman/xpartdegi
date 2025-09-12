@@ -1,6 +1,7 @@
 import React from 'react';
 
 const BrandValues: React.FC = () => {
+// console.log("the brand value component")
   return (
     <section className="py-20 bg-gradient-to-br from-amber-50 to-orange-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
