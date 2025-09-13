@@ -2,6 +2,7 @@ import React from 'react';
 import { Palette, Code, Smartphone, Zap } from 'lucide-react';
 
 const Services: React.FC = () => {
+  // all of the services
   const services = [
     {
       icon: <Palette className="w-12 h-12" />,
