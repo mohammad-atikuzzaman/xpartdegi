@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Portfolio: React.FC = () => {
+  // out portfolios data, but its static
   const portfolioItems = [
     {
       title: "Website Design",
