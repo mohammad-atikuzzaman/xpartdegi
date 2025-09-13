@@ -1,6 +1,8 @@
 import React from 'react';
 
 const WhatWeDo: React.FC = () => {
+// all of the services
+
   const services = {
     strategy: [
       "Business Analysis",
