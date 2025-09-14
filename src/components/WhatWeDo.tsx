@@ -1,7 +1,6 @@
 import React from 'react';
 
 const WhatWeDo: React.FC = () => {
-// all of the services we provide
 
   const services = {
     strategy: [
