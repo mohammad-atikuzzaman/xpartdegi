@@ -10,7 +10,7 @@ import AdditionalSections from './components/AdditionalSections';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
-function App()
+function App(){
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
