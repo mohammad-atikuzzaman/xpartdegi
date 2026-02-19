@@ -10,8 +10,7 @@ import AdditionalSections from './components/AdditionalSections';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
-function App() {
-// this state for open or close the menu
+function App()
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
